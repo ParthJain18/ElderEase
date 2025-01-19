@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ElderEase</string>
+    <string name="welcome_text">Welcome to Elder Ease!</string>
+    <string name="log_in">Log In</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an account yet?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="eld_care">ElderEase</string>
+    <string name="type_a_message">Type a message…</string>
+    <string name="backend_url">https://logical-witty-ocelot.ngrok-free.app/</string>
+    <string name="quick_access">Quick Access</string>
+    <string name="map">Map</string>
+</resources>
